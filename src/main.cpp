@@ -32,7 +32,7 @@ int main()
 		{
          cout << setw(15) << left << "Name: " << setw(10) << left << "| Rank:" << "| Year Released:" << endl;
          
-         for( int i = 0; i < numLanguages - 1; i++ )
+         for( int i = 0; i < numLanguages; i++ )
 			{
 				cout << formatReportLine( i, infoArray, names ) << endl;
 			}

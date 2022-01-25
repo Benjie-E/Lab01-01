@@ -1,9 +1,9 @@
 //
 //  main.cpp
-//  lab1
+//  lab01-01
 //
-//  Created by Brian R. Hall on 1/3/14.
-//  Copyright (c) 2014 Brian R. Hall. All rights reserved.
+//  Author: Benjie
+//  Date: 1/25/2022
 //
 
 #include <string>
